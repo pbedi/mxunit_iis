@@ -11,3 +11,8 @@ http://localhost/tests/MyTutorialTest.cfc?method=runTestRemote
 
 Call to Test Suite:
 http://localhost/tests/MyTestSuite.cfm?&debug=true
+
+Download mxunit framework and save it at the root level
+/mxunit/
+
+http://mxunit.org/
